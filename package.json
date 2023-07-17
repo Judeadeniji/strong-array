@@ -1,0 +1,20 @@
+{
+  "name": "strong-array",
+  "version": "0.0.01",
+  "description": "An enhanced array utility for improved type safety and control. Safeguard your data and streamline array operations with StrongArray. Take advantage of its advanced features to ensure reliable and precise array management. Boost your development process by leveraging StrongArray's capabilities for enhanced control and type safety",
+  "main": "exports/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Judeadeniji/strong-array.git"
+  },
+  "keywords": [],
+  "author": "Adeniji Oluwaferanmi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Judeadeniji/strong-array/issues"
+  },
+  "homepage": "https://github.com/Judeadeniji/strong-array#readme"
+}
